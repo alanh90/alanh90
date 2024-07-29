@@ -19,10 +19,6 @@ I have over 10 years of experience in video game development, working with both 
 ## 💡 Fun fact
 Despite my long-standing interest in AI, the rapid advancements of the past five years caught me by surprise. Now, I'm on an exciting journey to catch up and contribute to this revolutionary field!
 
-## 📫 How to reach me
-- [LinkedIn](#https://www.linkedin.com/in/alan-hourmand-24668393/)
-- [Twitter](#https://x.com/alanh513)
-
 ---
 
 <p align="center">
