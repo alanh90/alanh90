@@ -22,11 +22,5 @@ Despite my long-standing interest in AI, the rapid advancements of the past five
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanh90&show_icons=true&theme=radical" alt="Alan's GitHub Stats">
-</p>
-
----
-
-<p align="center">
   <i>"The measure of intelligence is the ability to change." - Albert Einstein</i>
 </p>
