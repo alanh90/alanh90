@@ -20,5 +20,5 @@ I have over 10 years of experience in video game development, working with both 
 ---
 
 <p align="center">
-  <i>"The measure of intelligence is the ability to change." - Albert Einstein</i>
+  <i>"The future of AI is not just in its intelligence but in its ability to empathize and act with humanity's best interests at heart."</i>
 </p>
