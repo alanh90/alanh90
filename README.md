@@ -12,8 +12,6 @@ I have over 10 years of experience in video game development and art, working wi
 ## 🌱 I'm currently learning
 - Advanced AI architectures and cognitive modeling
 - Emotional intelligence implementation in AI systems
-- Ethical considerations and alignment in AI development
-- Techniques for creating more generalized AI systems
 - Implementation of alternate transformer architectures
 
 ---
